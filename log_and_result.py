@@ -10,7 +10,3 @@ os.chdir(directory_name)
 # Example: Write log information to the log file in the current directory
 with open("PipelineProject.log", "w") as log_file:
     log_file.write("Log")
-
-# Example: Write result information to a file in the current directory
-with open("result.txt", "w") as result_file:
-    result_file.write("Result")
