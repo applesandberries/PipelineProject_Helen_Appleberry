@@ -1,19 +1,19 @@
 # PipelineProject_Helen_Appleberry
 A track 2 pipeline python project for Comp
 Tools:
-SRA
-Bowtie2
-SPAdes
-Linux
-Python3
+SRA,
+Bowtie2,
+SPAdes,
+Linux,
+Python3,
 
 Modules:
-subprocess
-os
-gzip
-entrez
-SeqIO
-glob
+subprocess,
+os,
+gzip,
+entrez,
+SeqIO,
+glob,
 
 DOWNLOAD FILES IN FILEFOLDER BEFORE RUNNING!!!
 FOUND IN FASTQ FOLDER!
