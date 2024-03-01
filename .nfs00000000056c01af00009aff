@@ -1,0 +1,11 @@
+Donor SRX2896375 had 2476889 read pairs before Bowtie2 filtering and 1274769 read pairs after mappingDonor SRX2896374 had 2730258 read pairs before Bowtie2 filtering and 1922300 read pairs after mappingDonor SRX2896360 had 2259287 read pairs before Bowtie2 filtering and 1562296 read pairs after mappingDonor SRX2896363 had 2004530 read pairs before Bowtie2 filtering and 1249472 read pairs after mappingrnaspades.py -t 2  --pe-1 1 /home/happleberry/SRX2896375_mapped_1.fq  --pe-2 1 /home/happleberry/SRX2896375_mapped_2.fq  --pe-1 2 /home/happleberry/SRX2896374_mapped_1.fq --pe-2 2 /home/happleberry/SRX2896374_mapped_2.fq --pe-1 3 /home/happleberry/SRX2896360_mapped_1.fq --pe-2 3 /home/happleberry/SRX2896360_mapped_2.fq --pe-1 4 /home/happleberry/SRX2896363_mapped_1.fq --pe-2 4 /home/happleberry/SRX2896363_mapped_2.fq -o assembly1There are 29 contigs > 1000 bp in the assembly.There are 259319 bp in the assembly.sacc	pident	length	qstart	qend	sstart	send	bitscore	evalue	stitle
+MT649469.1	99.402	38950	1	38939	50835	89772	70615	0.0	MT649469.1 Human betaherpesvirus 5 strain HAN-SCT18, complete genome
+MT649471.1	99.394	38950	1	38939	50717	89654	70598	0.0	MT649471.1 Human betaherpesvirus 5 strain HAN-SCT16, complete genome
+OU342913.1	99.130	38952	1	38939	51249	90190	70031	0.0	OU342913.1 Human betaherpesvirus 5 isolate PRA07 genome assembly, complete genome: monopartite
+ON119197.1	99.063	38954	1	38939	50900	89839	69885	0.0	ON119197.1 Human betaherpesvirus 5 isolate E83151, partial genome
+OR546126.1	99.042	38953	1	38939	50662	89599	69839	0.0	OR546126.1 Cytomegalovirus humanbeta5 strain FFPE-35, complete genome
+ON119191.1	98.978	38951	1	38939	50914	89843	69693	0.0	ON119191.1 Human betaherpesvirus 5 isolate E18800, partial genome
+OR546128.1	98.886	38955	1	38939	50619	89558	69503	0.0	OR546128.1 Cytomegalovirus humanbeta5 strain FFPE-184, complete genome
+MT649468.1	98.868	38953	1	38939	50389	89314	69451	0.0	MT649468.1 Human betaherpesvirus 5 strain HAN-SCT19, complete genome
+OR546127.1	98.829	38954	1	38939	50458	89404	69388	0.0	OR546127.1 Cytomegalovirus humanbeta5 strain FFPE-150, complete genome
+OK000909.1	98.809	38954	1	38939	50924	89867	69340	0.0	OK000909.1 Human betaherpesvirus 5 strain Merlin, complete genome
