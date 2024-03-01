@@ -15,7 +15,7 @@ entrez,
 SeqIO,
 glob,
 
-DOWNLOAD FILES IN FILEFOLDER BEFORE RUNNING!!! These are the fastq files that you will use at the beginning of the pipeline, unless you want to edit my code please put them in a folder at your current working directory called fastq_files!
+DOWNLOAD FILES There are 8 and they begin with t(for trimmed)!! These are the fastq files that you will use at the beginning of the pipeline, unless you want to edit my code please put them in a folder at your current working directory called fastq_files!
 FOUND IN FASTQ FOLDER!
 run with python3: pipeline_project.py
 
