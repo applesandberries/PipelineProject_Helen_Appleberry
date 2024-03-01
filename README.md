@@ -15,7 +15,6 @@ entrez
 SeqIO
 glob
 
-
 DOWNLOAD FILES IN FILEFOLDER BEFORE RUNNING!!!
 FOUND IN FASTQ FOLDER!
 run with python3: pipeline_project.py
